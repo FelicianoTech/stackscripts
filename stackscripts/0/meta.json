@@ -1,0 +1,5 @@
+{
+        "label":"A Fake StackScript For Information Purposes",
+        "description":"This is the description for this StackScript. Special characters such as \" or \\ need to be escaped properly.",
+        "supported-distributions":[124,129,130,134]
+}

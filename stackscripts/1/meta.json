@@ -1,0 +1,7 @@
+{
+        "label":"StackScript Bash Library",
+        "description":"Does nothing on its own. Do not deploy directly.\n\nA collection of useful bash functions to be included in other bash StackScripts with a \"source <ssinclude StackScriptID=1>\" line.",
+        "supported-distributions":[65,126,64],
+	"author":"linode",
+	"version":"0.0.0.1"
+}

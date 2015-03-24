@@ -1,2 +1,8 @@
-# stackscripts
+# StackScripts
 Linode StackScripts. Most but not neccessarilly all of these StackScripts will be published to their Linode StackScript website (https://www.linode.com/stackscripts) as official Linode StackScripts.
+
+##Contributing
+See `stackscripts/0/` as an example of how StackScripts can be contributed to this repository.
+
+##To-do
+There will be a collection of nested directories ending in symlinks that will provide a way to discover and please StackScripts into categories in this repository. This will become apparent once more StackScripts are in the repository as Git won't simply retain empty directories.

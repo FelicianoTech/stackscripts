@@ -3,5 +3,6 @@
         "description":"This is the description for this StackScript. Special characters such as \" or \\ need to be escaped properly in the meta.json file.",
         "supported-distributions":[124,129,130,134],
 	"author":"linode",
-	"version":"0.0.0.1"
+	"version":"0.0.0.1",
+	"language":"bash"
 }

@@ -1,5 +1,5 @@
 # StackScripts
-Linode StackScripts. Most but not neccessarilly all of these StackScripts will be published to their Linode StackScript website (https://www.linode.com/stackscripts) as official Linode StackScripts.
+Linode StackScripts. Most but not necessarily all of these StackScripts will be published to the [Linode StackScript Directory](https://www.linode.com/stackscripts) as official Linode StackScripts.
 
 ##Contributing
 See `stackscripts/0/` as an example of how StackScripts can be contributed to this repository.
